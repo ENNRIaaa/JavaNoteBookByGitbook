@@ -1,0 +1,66 @@
+{
+    "title": "Java阶段性笔记",
+    "author": "liyan",
+    "description": "根据Java学习进度持续更新笔记，也会根据知识的积累逐渐完善和修正之前的内容。",
+    "language": "zh-hans",
+    "plugins": [
+        "hide-element",
+        "back-to-top-button",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "-chapter-fold",
+        "expandable-chapters",
+        "back-to-top-button",
+        "disqus",
+        "-changyan",
+        "sharing",
+        "donate",
+        "prism",
+        "-highlight",
+        "-copy-code-button",
+        "sitemap-general",
+        "-toggle-chapters",
+        "pageview-count",
+        "splitter",
+        "baidu-v3",
+        "tbfed-pagefooter"
+    ],
+    "links": {
+        "sidebar": {
+            "时光瓶": "https://www.shiguangping.com/"
+        }
+    },
+    "pluginsConfig": {
+        "hide-element": {
+            "elements": [
+                ".gitbook-link"
+            ]
+        },
+        "disqus": {
+            "shortName": "javajie-duan-xing-bi-ji-1"
+        },
+        "donate": {
+            "button": "打赏",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏",
+            "alipay": "https://images.shiguangping.com/imgs/201911/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE.jpg",
+            "wechat": "https://images.shiguangping.com/imgs/201911/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE.png"
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy liyan 2020",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "changyan": {
+            "appid": "cyuNLHDcc",
+            "conf": "the conf in the code generate by changyan"
+        },
+        "sitemap-general": {
+            "prefix": "https://javabook.shiguangping.com/"
+        },
+        "baidu": {
+            "token": "7ae5f08579295eca67ef25ee9c31f9d9"
+        }
+    }
+}

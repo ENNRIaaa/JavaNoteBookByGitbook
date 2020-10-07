@@ -1,0 +1,31 @@
+# Tomcat
+
+### 文件结构：
+
+bin：Tomcat启动文件目录
+
+conf：依赖jar包
+
+logs：日志文件
+
+temp：临时文件
+
+webapps：Tomcat运行项目文件
+
+work：Tomcat运行之后存放数据
+
+
+
+### IDEA配置Tomcat：
+
+
+
+
+
+
+
+
+
+*注意：web项目的依赖要放到web-->WEB-INF-->lib下（WEB-INF文件夹没有需自己创建，文件夹名称不能出错，否则会出问题）*
+
+<img src="https://images.shiguangping.com/imgs/20200602003346.png" alt="image-20200602003346853" style="zoom:50%;" />
