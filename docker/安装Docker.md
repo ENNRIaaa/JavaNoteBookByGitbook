@@ -31,9 +31,9 @@ sudo yum install -y yum-utils
 
 ```shell
 sudo yum-config-manager \
-    --add-repo \
-    https://download.docker.com/linux/centos/docker-ce.repo
-    
+--add-repo \
+https://download.docker.com/linux/centos/docker-ce.repo
+
 # 或者添加阿里的镜像仓库
 sudo yum-config-manager --add-repo http://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
 ```
@@ -111,6 +111,66 @@ Images, containers, volumes, or customized configuration files on your host are 
 
 ```bash
 sudo rm -rf /var/lib/docker
+```
+
+
+
+## Docker的启动与停止
+
+systemctl 命令是系统服务管理器指令 
+
+启动docker：
+
+```
+systemctl start docker
+```
+
+
+
+停止docker：
+
+```
+systemctl stop docker
+```
+
+
+
+重启docker：
+
+```
+systemctl restart docker
+```
+
+
+
+查看docker状态：
+
+```
+systemctl status docker
+```
+
+
+
+开机启动：
+
+```
+systemctl enable docker
+```
+
+
+
+查看docker概要信息
+
+```
+docker info
+```
+
+
+
+查看docker帮助文档
+
+```
+docker --help
 ```
 
 
