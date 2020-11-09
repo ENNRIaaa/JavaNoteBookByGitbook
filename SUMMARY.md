@@ -3,7 +3,7 @@
 * [Java阶段性笔记](README.md)
 
 ## JavaSE
-* [1. 开发环境安装](javase1/开发环境安装.md)
+* [1. 搭建开发环境](javase1/开发环境安装.md)
     * [1.1 Java配置环境变量](javase1/配置环境变量.md)
     * [1.2 科普什么是JDK？](javase1/安装JDK.md)
     * [1.3 IDE：集成开发环境](javase1/用STS新建一个Java文件.md)
@@ -139,7 +139,6 @@
 * [6. JSON](web6/json.md)
     * [6.1 FastJson](web6/fastjson.md)
 * [7. JQuery](web7/jquery.md)
-* [8. BootStrap](web8/bootstrap.md)
 * [9. Vue.js](web9/vuejs.md)
     * [创建一个Vue实例](web9/创建一个Vue实例.md)
     * [数据与方法](web9/数据与方法.md)
@@ -157,9 +156,6 @@
     * [vue-cli脚手架](web9/vue-cli.md)
 * [10. Node.js](web10/nodejs.md)
     * [nvm Node版本管理工具](web10/nvm-Node版本管理工具.md)
-
-## XML入门
-* [XML入门](xml1/xml入门.md)
 
 ## JavaEE相关
 * [1. JavaEE](javaee1/JavaEE.md)
@@ -331,14 +327,15 @@
     * [Ribbon 负载均衡](frame5/Ribbon负载均衡.md)
     * [Feign](frame5/Feign.md)
 
-## 工具和中间件
-* [Junit单元测试](midd1/Junit单元测试.md)
+
+## Maven
 * [Maven](midd1/Maven.md)
     * [Eclipse配置Maven](midd1/Eclipse配置Maven.md)
     * [IDEA配置Maven](midd1/IDEA配置Maven.md)
     * [Maven常用坐标](midd1/常用坐标.md)
-* [Redis](midd1/Redis.md)
-* [Nginx](midd1/Nginx.md)
+
+## 工具和中间件
+* [Junit单元测试](midd1/Junit单元测试.md)
 * [WebSocket](midd1/WebSocket.md)
 * [QRCode](midd1/QRCode.md)
 * [quartz](midd1/quartz.md)
@@ -391,6 +388,17 @@
 
 ## CI/CD
 * [Jenkins](jenkins/Jenkins.md)
+    * [软件开发生命周期](jenkins/软件开发生命周期.md)
+    * [持续集成](jenkins/持续集成.md)
+    * [Jenkins 介绍与搭建](jenkins/Jenkins介绍与搭建.md)
+    * [用户权限管理](jenkins/用户权限管理.md)
+    * [凭证管理](jenkins/凭证管理.md)
+    * [Maven 安装和配置](jenkins/Maven安装和配置.md)
+    * [Tomcat 安装和配置](jenkins/Tomcat安装和配置.md)
+    * [构建Maven项目](jenkins/构建Maven项目.md)
+    * [构建自由风格项目](jenkins/构建自由风格项目.md)
+    * [Pipeline流水线项目构建](jenkins/Pipeline流水线项目构建.md)
+
 
 ## 测试
 * [HTTP协议](http/HTTP协议.md)

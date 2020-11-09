@@ -4,7 +4,7 @@
 
 Java不同于一般的[编译语言](https://zh.wikipedia.org/wiki/編譯語言)或[解释型语言](https://zh.wikipedia.org/wiki/直譯語言)。它首先将源代码编译成[字节码](https://zh.wikipedia.org/wiki/字节码)，再依赖各种不同平台上的虚拟机来解释执行字节码，从而具有“[一次编写，到处运行](https://zh.wikipedia.org/wiki/一次编写，到处运行)”的跨平台特性。
 
-<img src="https://images.shiguangping.com/imgs/20200628124926.png" alt="image-20200628124926265" width="300px" title="public static void main(String[] args){}"/>
+<img src="https://images.shiguangping.com/imgs/20200905230153.jpg" alt="image-20200628124926265" width="300px" title="public static void main(String[] args){}"/>
 
 
 
