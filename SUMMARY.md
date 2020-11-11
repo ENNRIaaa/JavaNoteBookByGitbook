@@ -327,19 +327,11 @@
     * [Ribbon 负载均衡](frame5/Ribbon负载均衡.md)
     * [Feign](frame5/Feign.md)
 
-
 ## Maven
-* [Maven](midd1/Maven.md)
-    * [Eclipse配置Maven](midd1/Eclipse配置Maven.md)
-    * [IDEA配置Maven](midd1/IDEA配置Maven.md)
-    * [Maven常用坐标](midd1/常用坐标.md)
-
-## 工具和中间件
-* [Junit单元测试](midd1/Junit单元测试.md)
-* [WebSocket](midd1/WebSocket.md)
-* [QRCode](midd1/QRCode.md)
-* [quartz](midd1/quartz.md)
-* [Lombok](midd1/Lombok.md)
+* [Maven](maven/Maven.md)
+    * [Eclipse配置Maven](maven/Eclipse配置Maven.md)
+    * [IDEA配置Maven](maven/IDEA配置Maven.md)
+    * [Maven常用坐标](maven/常用坐标.md)
 
 ## Linux快速上手
 * [Linux入门概述](linux1/Linux入门概述.md)
@@ -399,9 +391,12 @@
     * [构建自由风格项目](jenkins/构建自由风格项目.md)
     * [Pipeline流水线项目构建](jenkins/Pipeline流水线项目构建.md)
 
-
 ## 测试
-* [HTTP协议](http/HTTP协议.md)
-* [Fiddler](fiddler/Fiddler.md)
-    * [Fiddler的工作原理](fiddler/Fiddler的工作原理.md)
+* [HTTP协议](test/HTTP协议.md)
+* [Fiddler](test/Fiddler.md)
+    * [Fiddler的工作原理](test/Fiddler的工作原理.md)
+
+## 其它
+* [Junit单元测试](other/Junit单元测试.md)
+* [Lombok](other/Lombok.md)
 
